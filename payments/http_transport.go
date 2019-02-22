@@ -8,8 +8,8 @@ import (
 	kithttp "github.com/go-kit/kit/transport/http"
 	"github.com/gorilla/mux"
 
-	apierrors "github.com/alebrega/payments-api/utility/errors"
-	"github.com/alebrega/payments-api/utility/instrumenting"
+	apierrors "github.com/alebrega/payments-api/tree/master/utility/errors"
+	"github.com/alebrega/payments-api/tree/master/utility/instrumenting"
 )
 
 const componentName = "payments"

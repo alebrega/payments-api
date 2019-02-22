@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	logger "github.com/alebrega/payments-api/utility/logger"
+	logger "github.com/alebrega/payments-api/tree/master/utility/logger"
 	kithttp "github.com/go-kit/kit/transport/http"
 	"go.uber.org/zap"
 )

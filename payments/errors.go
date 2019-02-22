@@ -3,7 +3,7 @@ package payments
 import (
 	"net/http"
 
-	apierrors "github.com/alebrega/payments-api/utility/errors"
+	apierrors "github.com/alebrega/payments-api/tree/master/payments-api/utility/errors"
 )
 
 var (

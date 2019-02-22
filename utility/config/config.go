@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	logger "github.com/alebrega/payments-api/utility/logger"
+	logger "github.com/alebrega/payments-api/tree/master/utility/logger"
 	"github.com/spf13/viper"
 )
 

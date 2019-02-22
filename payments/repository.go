@@ -5,7 +5,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 
-	"github.com/alebrega/payments-api/utility/config"
+	"github.com/alebrega/payments-api/tree/master/utility/config"
 	_ "github.com/lib/pq" //pq imports the postgres driver
 	uuid "github.com/satori/go.uuid"
 )

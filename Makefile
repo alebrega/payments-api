@@ -39,7 +39,7 @@ integration-tests:
 # 	cd features && godog .
 
 fmt:
-	@go fmt github.com/alebrega/payments-api/...
+	@go fmt github.com/alebrega/payments-api/tree/master/payments-api/...
 
 .PHONY: docker-compose-build
 docker-compose-build:

@@ -15,9 +15,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/alebrega/payments-api/payments"
-	"github.com/alebrega/payments-api/utility/config"
-	"github.com/alebrega/payments-api/utility/logger"
+	"github.com/alebrega/payments-api/tree/master/payments"
+	"github.com/alebrega/payments-api/tree/master/payments-api/utility/config"
+	"github.com/alebrega/payments-api/tree/master/payments-api/utility/logger"
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
